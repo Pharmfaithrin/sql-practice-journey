@@ -2,8 +2,9 @@
 
 This repository contains my SQL learning and practice as I transition into data analysis.
 
-## 📌 Platforms Used
-- HackerRank
+## 📌 Platforms and tools Used
+- MYSQL WORKBENCH
+- Data Dibble
 - LeetCode
 - DataLemure
 - DiltHub
